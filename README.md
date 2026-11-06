@@ -1,4 +1,4 @@
-AdventureWorks SQL Projec
+AdventureWorks SQL PROJECT
 
 PROJECT OVERVIEW
 This project focuses on analysing the AdventureWorks database using SQL. It demonstrates the use of SQL JOINs and Subqueries to answer business-related questions and extract meaningful insights from the database.
